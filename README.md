@@ -16,5 +16,5 @@
 </div>
 
 <div class="cobrinha">
-  ![Snake animation](https://github.com/ThalysonBarrosDev/thalysonbarros/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ThalysonBarrosDev/thalysonbarros/blob/main/output/github-contribution-grid-snake.svg)
 </div>
