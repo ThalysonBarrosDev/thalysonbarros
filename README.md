@@ -1,7 +1,3 @@
-## Olá, meu nome é Thalyson.
-
-<br>
-
 - Informaçoes do meu GitHub:
 <div>
   <a href="https://github.com/ThalysonBarrosDev">
