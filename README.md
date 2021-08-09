@@ -1,4 +1,4 @@
-- Informaçoes do meu GitHub:
+<h4> - Informaçoes do meu GitHub: </h4>
 <div>
   <a href="https://github.com/ThalysonBarrosDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysonBarrosDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" content="pt-br"/></a>
@@ -6,8 +6,8 @@
  
 <br>
 
- - Ferramentas de Desenvolvimento:
-<div class="linguagens" style="display: inline_block; text-align: center;">
+<h4> - Ferramentas de Desenvolvimento: </h4>
+<div class="linguagens" style="display: inline_block;">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="SASS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
@@ -27,7 +27,7 @@
 
 <br>
 
-- Contato:
+<h4> - Contato: </h4>
 <div class="redes-socias">
   <a href = "mailto:thalysonbarrospereira2019@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/thalyson-barros-1874b71a9/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
