@@ -4,7 +4,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysonBarrosDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" content="pt-br"/></a>
 </div>
  
-<br><br>
+<br>
 
  - Ferramentas de Desenvolvimento:
 <div class="linguagens" style="display: inline_block;">
@@ -25,7 +25,7 @@
   <img align="center" alt="Git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg">
 </div>
 
-<br><br>
+<br>
 
 - Contato:
 <div class="redes-socias"> 
