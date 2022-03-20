@@ -1,7 +1,7 @@
 <h4> - Informaçoes do meu GitHub: </h4>
 <div>
   <a href="https://github.com/ThalysonBarrosDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysonBarrosDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" content="pt-br"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThalysonBarrosDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true" content="pt-br"/><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThalysonBarrosDev&theme=dark" content="pt-br"/></a>
 </div>
  
 <br>
