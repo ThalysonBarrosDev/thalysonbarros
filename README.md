@@ -40,6 +40,7 @@
 
 <br>
 
+<h4 align="center"> - Quantas pessoas já visitaram o meu perfil do GitHub? </h4>
 <div align="center">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=thalysonbarrosdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" height="28px">
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=thalysonbarrosdev&repo=thalysonbarrosdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" height="28px">
 </div>
