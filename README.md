@@ -39,5 +39,5 @@
 </div>
 
 <div>
-  <span>https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=thalysonbarrosdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg</span>
+  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=thalysonbarrosdev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" height="28px">
 </div>
